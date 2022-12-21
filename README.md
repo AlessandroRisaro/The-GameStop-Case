@@ -1,2 +1,5 @@
 # The GameStop Case: a Data Driven POV
-The GameStop case: a data-driven approach
+The year 2021 witnessed the 'rise of meme stocks, that is, shares of companies with poor future prospects and subject to high short selling, which in recent months have experienced extraordinary returns due to groups of retail investors who interacted in certain subreddits and decided to buy such shares en masse, causing not a few problems for the large hedge funds, which were betting on their decline.Prominent among them all is GameStop, which was the first to have a major media impact. 
+
+The goal of this project is to understand how the GameStop stock price (GME) evolved between January 11, 2021 and February 14, 2021, by comparing it with the number of posts and user sentiment in the subreddit "wallstreetbets" and to see if there is a connection between the trades made on GameStop and the aforementioned Reddit group. In addition, we want to shed light on what were the most frequently used words by users in the group, both in extremely bullish and extremely bearish moments.
+
